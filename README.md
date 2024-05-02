@@ -117,3 +117,14 @@ Future smart parking systems will prioritize collaboration and interoperability 
 **Resilience and Adaptability**
 
 Smart parking systems will need to be designed with resilience and adaptability in mind, capable of responding to changing urban dynamics, technological advancements, and unforeseen challenges such as pandemics or natural disasters. This may involve building flexibility into system architecture, redundancy in critical components, and scalability to accommodate future growth.
+
+
+
+
+![1](https://github.com/smartrbo/Mini-Project/assets/104967307/d1a62f94-4206-43bd-8e57-beb8200cde84)
+![2](https://github.com/smartrbo/Mini-Project/assets/104967307/1c9e5a2b-dba5-4866-babd-b3120038ad21)
+
+
+
+
+
