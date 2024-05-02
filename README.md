@@ -32,6 +32,7 @@ Utilizing state-of-the-art sensors, the system accurately detects vehicle presen
 Administrators have access to a comprehensive dashboard where they can monitor parking usage, manage reservations, and configure system settings. The dashboard provides valuable insights into parking performance metrics, enabling administrators to track key performance indicators and identify areas for improvement. With intuitive visualization tools and customizable reporting features, the admin dashboard facilitates informed decision-making and proactive management of parking resources.
 
 **Technologies Used**
+
 Programming Languages: Python, JavaScript
 Frameworks: Django, React.js
 Database: PostgreSQL
