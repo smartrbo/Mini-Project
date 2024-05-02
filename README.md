@@ -2,6 +2,12 @@
 
 The Smart and Effective Parking Management System is designed to revolutionize the way parking spaces are utilized, managed, and accessed. Leveraging cutting-edge technology, the system aims to optimize parking resource allocation, reduce congestion, minimize environmental impact, and enhance user convenience.
 
+![files-aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzU5Y2VhNGJhM2JlNWIuanBnJnZlcnNpb249MDAwMCZzaWc9YWM3MTdlZDRkMWJkMzJjOGMxNzBkNzE5NmE5YjJiZjQ253D](https://github.com/smartrbo/Mini-Project/assets/159227781/87ff9b7e-f008-494b-aba1-4de12cc9ee65)
+
+
+
+
+
 **Key Features**
 
 Real-time Parking Availability
